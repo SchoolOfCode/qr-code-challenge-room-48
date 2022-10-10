@@ -7,3 +7,5 @@ Insert child p tag after h4 with text description; start using colors;
 Check how it looks then style;
 
 Size card, center and size image within it,
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/yfKGTVJ/image-qr-code.png" alt="image-qr-code" border="0"></a>
